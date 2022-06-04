@@ -22,6 +22,8 @@ def game():
         
     elif (player == "P" and computeraction == "S"):
         print('Scissors beats Paper and the winner is computer')
+    else:
+        print('you value you enter is not correct')
 
 
 
